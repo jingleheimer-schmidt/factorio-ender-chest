@@ -1,0 +1,9 @@
+{
+	"name": "factorio-ender-chest",
+	"version": "0.0.1",
+	"title": "Ender Chest",
+	"description": "Adds an ender chest to store items, just like minecraft.",
+	"author": "asher_sky",
+	"dependencies": ["base >= 1.0.0"],
+	"factorio_version": "1.0"
+}
